@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{"9V/+":function(e,n,a){"use strict";a.r(n);var t=a("q1tI"),c=a.n(t),l=a("Bl7J");n.default=function(e){return c.a.createElement(l.a,null,c.a.createElement("div",{className:"py-3"},"建構中..."))}}}]);
+//# sourceMappingURL=component---src-pages-download-js-45d9d6bd207f4f3297c7.js.map

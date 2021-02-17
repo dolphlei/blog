@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{Mdw5:function(e,t,a){"use strict";a.r(t),a.d(t,"query",(function(){return l}));var n=a("q1tI"),r=a.n(n),c=a("RZR6"),i=a("Bl7J"),l="1639783559";t.default=function(e){var t=e.data,a=t.articles.edges,n=t.category.name,l={metaTitle:n,metaDescription:"All "+n+" articles"};return r.a.createElement(i.a,{seo:l},r.a.createElement(c.a,{articles:a,topSubTitle:"分類 - ["+n+"]"}))}}}]);
+//# sourceMappingURL=component---src-templates-category-js-dad139e7a53e9e2d62fa.js.map
