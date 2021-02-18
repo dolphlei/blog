@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///./src/templates/tag.js"],"names":[],"mappings":"2FAAA,gCAEe,qBACX,OAAO","file":"component---src-templates-tag-js-9ef3391d269b063a6e57.js","sourcesContent":["import React from \"react\";\r\n\r\nexport default ()=>{\r\n    return <></>;\r\n}"],"sourceRoot":""}
