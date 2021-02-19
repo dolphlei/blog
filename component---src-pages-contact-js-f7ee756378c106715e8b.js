@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{"Cuy+":function(e,n,a){"use strict";a.r(n);var t=a("q1tI"),c=a.n(t),u=a("Bl7J");n.default=function(e){return c.a.createElement(u.a,null,c.a.createElement("div",{className:"py-3"},"建構中..."))}}}]);
-//# sourceMappingURL=component---src-pages-contact-js-f7ee756378c106715e8b.js.map
